@@ -19,7 +19,7 @@ This engine replaces naive historical spending proportions with a rigorous linea
    Evaluates the optimizer's performance against a baseline using a Monte Carlo simulation (500 trials), applying Gaussian noise to efficiency parameters to test real-world variance.
 
 ## Results
-Validated via stochastic Monte Carlo simulation, the LP optimizer natively and consistently outperforms the proportional historical baseline, achieving a **~33% mean improvement** in budget utilization.
+Validated via stochastic Monte Carlo simulation, the LP optimizer natively and consistently outperforms the proportional historical baseline, achieving a **32.58% mean improvement** in budget utilization.
 
 ![Allocation Comparison](allocation_comparison.png)
 
